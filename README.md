@@ -2,7 +2,9 @@
 A Novel Method for Handwritten Digit Recognition System
 
 
-Team Leader   Manimuthu
+Team Leader  
+
+Manimuthu
 
 Team Member
 
