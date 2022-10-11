@@ -3,6 +3,7 @@ A Novel Method for Handwritten Digit Recognition System
 
 
 Team Leader 
+
 Manimuthu
 
 
