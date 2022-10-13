@@ -2,10 +2,10 @@
 A Novel Method for Handwritten Digit Recognition System
 
 
-Team  Leader : Manimuthu
+Team  Leader : Manimuthu P
 
-Team Member 1 : Sureshkannan
+Team Member 1 : Sureshkannan S
 
-Team Member 2 : Meiyalagan
+Team Member 2 : Meiyalagan R
 
-Team Member 3 : Tamilarasan
+Team Member 3 : Tamilarasan M
